@@ -73,7 +73,7 @@ Publish the website in the LocalHost.
         <div class="row">
             <div class="col-md-4">
                 <div class="card">
-                    <img src="1.avif" class="card-img-top" alt="...">
+                    <img src="c:\Users\admin\Downloads\pic1.webp" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Design 1</h5>
                         <p class="card-text">A beautiful representation of creativity.</p>
@@ -84,7 +84,7 @@ Publish the website in the LocalHost.
             </div>
             <div class="col-md-4">
                 <div class="card">
-                    <img src="2.jpg" class="card-img-top" alt="...">
+                    <img src="c:\Users\admin\Downloads\pic.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Design 2</h5>
                         <p class="card-text">An innovative approach to modern design.</p>
@@ -95,7 +95,7 @@ Publish the website in the LocalHost.
             </div>
             <div class="col-md-4">
                 <div class="card">
-                    <img src="3.avif" class="card-img-top" alt="...">
+                    <img src="c:\Users\admin\Downloads\pic 3.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Design 3</h5>
                         <p class="card-text">An innovative approach to modern design.</p>
@@ -106,7 +106,7 @@ Publish the website in the LocalHost.
             </div>
             <div class="col-md-4">
                 <div class="card">
-                    <img src="4.jpeg" class="card-img-top" alt="...">
+                    <img src="c:\Users\admin\Downloads\pic4.webp" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Design 4</h5>
                         <p class="card-text">An innovative approach to modern design.</p>
@@ -117,7 +117,7 @@ Publish the website in the LocalHost.
             </div>
             <div class="col-md-4">
                 <div class="card">
-                    <img src="5.avif" class="card-img-top" alt="...">
+                    <img src="c:\Users\admin\Downloads\pic5.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Design 5</h5>
                         <p class="card-text">An innovative approach to modern design.</p>
@@ -128,7 +128,7 @@ Publish the website in the LocalHost.
             </div>
             <div class="col-md-4">
                 <div class="card">
-                    <img src="6.avif" class="card-img-top" alt="...">
+                    <img src="c:\Users\admin\Downloads\pic6.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Design 6</h5>
                         <p class="card-text">A fresh perspective on creative art.</p>
@@ -143,17 +143,17 @@ Publish the website in the LocalHost.
     <div class="container my-5">
         <div class="row">
             <div class="col-md-4 text-center">
-                <img src="7.webp" class="rounded-circle mb-3" alt="..." width="200" height="200">
+                <img src="c:\Users\admin\Downloads\pic7.jpg" class="rounded-circle mb-3" alt="..." width="200" height="200">
                 <h5>Explore Designs</h5>
                 <p>Find creative inspiration for your next project.</p>
             </div>
             <div class="col-md-4 text-center">
-                <img src="8.jpg" class="rounded-circle mb-3" alt="..." width="200" height="200">
+                <img src="c:\Users\admin\Downloads\pic8.jpeg" class="rounded-circle mb-3" alt="..." width="200" height="200">
                 <h5>Connect with Cars</h5>
                 <p>Collaborate with top  Car designers around the globe.</p>
             </div>
             <div class="col-md-4 text-center">
-                <img src="9.webp" class="rounded-circle mb-3" alt="..." width="200" height="200">
+                <img src="c:\Users\admin\Downloads\pic9.webp" class="rounded-circle mb-3" alt="..." width="200" height="200">
                 <h5>Grow Your Skills</h5>
                 <p>Access learning resources to improve your craft.</p>
             </div>
@@ -171,6 +171,7 @@ Publish the website in the LocalHost.
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
+
 ```
 ## Login page.html:
 ```
